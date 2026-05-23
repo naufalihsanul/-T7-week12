@@ -7,10 +7,10 @@ import os
 
 
 class DataLoader:
-    # Kelas pemuat data CSV
+    # Kelas utama pemuat data CSV
 
     def __init__(self, file_path=None):
-        # Path default CSV
+        # Path default 
         if file_path is None:
             base_dir = os.path.dirname(os.path.abspath(__file__))
             file_path = os.path.join(base_dir, "SuperMarket Analysis.csv")

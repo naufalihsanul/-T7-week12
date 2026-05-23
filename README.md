@@ -1,6 +1,6 @@
 # 🏪 Dashboard Visualisasi Data Supermarket
 
-**Tugas 6 - Pemrograman Visual**
+**Tugas 6 - Praktikum Pemrograman Visual**
 
 | | |
 |---|---|

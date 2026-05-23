@@ -16,7 +16,7 @@ from chart_widget import ChartCanvas
 
 
 class KartuRingkasan(QFrame):
-    # Widget kartu ringkasan
+    # Kelas widget kartu ringkasan
 
     def __init__(self, ikon, judul, nilai):
         super().__init__()

@@ -18,7 +18,7 @@ def muat_stylesheet(app):
 
 
 def main():
-    # Entry point aplikasi
+    # Entry point utama aplikasi
     app = QApplication(sys.argv)
 
     # Font default

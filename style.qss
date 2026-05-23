@@ -2,7 +2,7 @@
 /* NIM   : F1D02310084 */
 /* Tugas 6 - Style Dashboard */
 
-/* ===== WINDOW UTAMA ===== */
+/* ===== AREA WINDOW UTAMA ===== */
 QMainWindow {
     background-color: #F8F9FA;
 }

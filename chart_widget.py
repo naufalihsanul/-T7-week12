@@ -7,7 +7,7 @@ from matplotlib.figure import Figure
 import matplotlib.ticker as ticker
 import matplotlib.pyplot as plt
 
-# Warna chart sederhana
+# Pilihan warna chart sederhana
 WARNA = ['#4F6D7A', '#7A9E9F', '#B8D4D4', '#D4A574', '#E8C39E', '#9BB5C4']
 BG = '#FFFFFF'
 TEKS = '#333333'
